@@ -1,4 +1,4 @@
-production
+stage
 CONTENTS OF THIS FILE
 ---------------------
 
