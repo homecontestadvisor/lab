@@ -1,4 +1,4 @@
-stage
+DEVELOPEMENT
 CONTENTS OF THIS FILE
 ---------------------
 
