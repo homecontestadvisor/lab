@@ -1,4 +1,4 @@
-stage
+
 CONTENTS OF THIS FILE
 ---------------------
 
