@@ -1,4 +1,4 @@
-DEVELOPEMENT
+
 CONTENTS OF THIS FILE
 ---------------------
 
